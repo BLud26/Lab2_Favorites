@@ -1,0 +1,78 @@
+body {
+    background: cornflowerblue;
+    font-family: Verdana, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+p {
+    color: darkslategray;
+}
+
+h1 {
+    color: purple;
+}
+
+#page-header {
+    background: white;
+    padding: 20px;
+    border: 3px solid purple;
+    margin-bottom: 20px;
+}
+
+.favorite-section {
+    background: white;
+    margin: 20px 0;
+    padding: 20px;
+    border: 2px solid navy;
+}
+
+#music-header {
+    color: crimson;
+    border-bottom: 3px dotted crimson;
+}
+
+a {
+    color: navy;
+    font-weight: bold;
+}
+
+ul {
+    background: white;
+    padding: 20px;
+    border: 2px solid navy;
+}
+
+li {
+    margin: 10px;
+}
+
+/* my most favorite food */
+#most-favorite-food {
+    color: darkgreen;
+    font-weight: bold;
+}
+
+table {
+    border: 2px solid navy;
+    border-collapse: collapse;
+}
+
+th {
+    color: white;
+    background: navy;
+    padding: 10px;
+    border: 1px solid navy;
+}
+
+td {
+    background: lightgray;
+    padding: 10px;
+    border: 1px solid navy;
+}
+
+.fav-image {
+    height: 200px;
+    border-radius: 10px;
+    margin: 10px;
+}
